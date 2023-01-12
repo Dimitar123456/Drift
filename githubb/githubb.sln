@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "githubb", "githubb.csproj", "{78F0C5B2-7DFE-4174-89CB-76EF13B3FDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "..\ConsoleApp3\ConsoleApp3.csproj", "{AE635D72-51FE-45D6-A6A3-3299255C3D5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F0C5B2-7DFE-4174-89CB-76EF13B3FDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F0C5B2-7DFE-4174-89CB-76EF13B3FDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F0C5B2-7DFE-4174-89CB-76EF13B3FDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F0C5B2-7DFE-4174-89CB-76EF13B3FDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE635D72-51FE-45D6-A6A3-3299255C3D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE635D72-51FE-45D6-A6A3-3299255C3D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE635D72-51FE-45D6-A6A3-3299255C3D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE635D72-51FE-45D6-A6A3-3299255C3D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A390496-73BD-48E4-829F-129CD766646D}
+	EndGlobalSection
+EndGlobal
